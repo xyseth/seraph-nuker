@@ -2,14 +2,14 @@
 	"Token": "token",
 	"Prefix": ">",
 
-	"Channel-Names": ["discord.gg/83"], 
-	"Server-Names": ["discord.gg/83"],
-	"Role-Names": ["fucked"],
-	"Reason": ["sex", "yum2goated"],
+	"Channel-Names": ["channelname"], 
+	"Server-Names": ["servername"],
+	"Role-Names": ["role"],
+	"Reason": ["test", "test"],
 
 	"Spam": true,
 
-	"Webhook-Names": ["YUM WAS HERE", "YUM FUCKS YOU"],
-	"Spam-Messages": ["@everyone yum was here discord.gg/83", "@everyone YUM  FUCK YOU https://discord.gg/83"],
+	"Webhook-Names": ["test", "test"],
+	"Spam-Messages": ["@Everyone", "@Everyone"],
 	"Spam-Amount": 10000
 }
